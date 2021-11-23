@@ -11,13 +11,13 @@ p {
   justify-content: center;
   justify-self: center;
 }
-.Header {
+/* .Header {
   display: flex;
   flex-flow: column wrap;
   justify-self: center;
   justify-content: center;
   border: thick rgb(160, 207, 253);
-}
+} */
 
 .List {
   display: flex;
@@ -34,19 +34,19 @@ p {
   justify-self: center;
   justify-content: center;
 }
-.Nav {
+/* .Nav {
   display: flex;
   flex-flow: column;
   justify-self: center;
   justify-content: center;
-}
+} */
 
-#navList {
+/* #navList {
   display: inline-flex;
   flex-direction: column;
   justify-self: center;
   justify-content: space-evenly;
-}
+} */
 a:link {
   color: rgb(179, 255, 204);
 }
